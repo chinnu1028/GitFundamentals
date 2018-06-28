@@ -1,1 +1,3 @@
-Hello, GIt
+Hello, GIT
+Sharing with remote repository
+
